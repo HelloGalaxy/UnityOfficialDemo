@@ -1,0 +1,17 @@
+Standard Assets Example Project/Library/
+Standard Assets Example Project/Builds/
+Standard Assets Example Project/Temp/
+Standard Assets Example Project/obj/
+*.csproj
+*.sln
+*.userprefs
+*.pidb*
+*.suo
+*.cache
+*.unityproj
+*Resharper*
+*.orig
+*ReSharper*
+*.orig.*
+*sln*
+*.orig
